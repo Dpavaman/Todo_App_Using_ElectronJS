@@ -4,3 +4,12 @@
 2. All the tasks added manually will be deleted once the app is closed 
 3. only first two tasks will persist since they are hard coded for demo purpose
 4. this App is created to Learn Electron JS.
+
+### default App Logo on darwin platform (mac os)
+![App-Logo](../Electron%20JS/multimedia/App%20Logo.png)
+
+### APP UI 
+![APP-UI](multimedia/App%20UI.png)
+
+### App Demo
+![App-Demo](multimedia/app.gif)

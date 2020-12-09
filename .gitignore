@@ -1,1 +1,8 @@
 node_modules
+electron-js-win32-x64
+electron-js-linux-arm64
+electron-js-linux-armv7l
+electron-js-linux-ia32
+electron-js-linux-x64
+electron-js-win32-arm64
+electron-js-win32-ia32
